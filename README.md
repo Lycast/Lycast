@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, moi c'est Anthony (Lycast) 👋
 
-<!--
-**Lycast/Lycast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Android passionné depuis 2021, j'ai évolué avec l'écosystème pour me spécialiser aujourd'hui dans les technologies modernes de Kotlin.
 
-Here are some ideas to get you started:
+### 🚀 Mon parcours & Objectifs
+- **Expertise Android** : De Java/XML vers le tout Kotlin avec Jetpack Compose.
+- **Full-Stack Kotlin** : Actuellement focus sur **KMP (Kotlin Multiplatform)** et **CMP** pour créer des expériences unifiées.
+- **Vision** : Devenir un expert Kotlin capable de propulser des projets de A à Z.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Stack Technique
+- **Languages** : Kotlin (Expert), Java
+- **UI** : Jetpack Compose, Compose Multiplatform
+- **Architecture** : MVVM, Clean Architecture, KMP Shared Logic
+- **Tools** : Koin/Dagger-Hilt, Coroutines, Flow, Ktor
+
+---
+*N'hésitez pas à explorer mes dépôts publics pour voir mon code !*
